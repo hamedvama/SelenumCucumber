@@ -1,0 +1,7 @@
+Base\BaseUtil.class
+Transformation\TransformerClasse.class
+Pages\LoginPage.class
+Runner\TestRunner.class
+Steps\CdiscountSteps.class
+Steps\NewtoursDemoAut.class
+Steps\Hook.class

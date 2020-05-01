@@ -10,7 +10,6 @@ public class Hook extends BaseUtil {
 
     public Hook(BaseUtil base) {
         this.base = base;
-        var a = "czc";
     }
 
     @Before

@@ -1,16 +1,5 @@
-Feature: Test_De_Site
+Feature: Test_De_Site_Cdiscount
   This feature deals with the login functionality, research article, article selection and add article
-
-  Scenario Outline: Test Newtours Site
-    Given Configuration Node with her IP address <NodeAddress>
-    And give link of site <SiteUrl>
-    When Authentication with <userName> and <password>
-    Then Connection Okay
-
-    Examples:
-      | NodeAddress                     | SiteUrl                      | userName | password |
-      | http://192.168.0.20:5566/wd/hub | http://newtours.demoaut.com/ | mercury  | mercury  |
-
 
   Scenario Outline: Test Cdiscount Site
     Given Configuration Cdiscount Node with her IP address <NodeAddress>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47caeb5c-2563-452e-b99f-4312140c770c" name="Default Changelist" comment="" />
+    <list default="true" id="47caeb5c-2563-452e-b99f-4312140c770c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Cdiscount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/CdiscountSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/CdiscountSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -51,7 +59,7 @@
       <recent name="C:\Users\hdi18997\IdeaProjects\SeleniumCucumber\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/hdi18997/IdeaProjects/SeleniumCucumber/src/test/java/TestNG.xml">
+  <component name="RunManager" selected="TestNG.TestRunner">
     <configuration name="Lanceur" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="C:\Users\hdi18997\IdeaProjects\SeleniumCucumber\src\test\java\Features" />
@@ -138,18 +146,30 @@
       <option name="presentableId" value="Default" />
       <updated>1587718876232</updated>
       <workItem from="1587718879700" duration="50630000" />
-      <workItem from="1588209646827" duration="5111000" />
+      <workItem from="1588209646827" duration="6701000" />
+      <workItem from="1588267348695" duration="2117000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588203937737">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588268408207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588203937737" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588268408207" />
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1587992461186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -166,26 +186,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587722623663" />
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1588209622505">
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1588268511761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588209622505" />
-    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1588209622505">
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588268511761" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1588268511761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588209622505" />
-    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1588209622505">
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588268511761" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1588268511760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588209622505" />
-    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1588209622505">
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588268511760" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1588268511761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588209622505" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588268511761" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1588209386829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588209386829" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588267389496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588267389496" />
     <state x="209" y="108" key="new project wizard" timestamp="1587719542892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
