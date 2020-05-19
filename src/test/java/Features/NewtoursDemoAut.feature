@@ -5,8 +5,8 @@ Feature: Test_De_Site_NewtoursDemoAut
     Given Configuration Node with her IP address <NodeAddress>
     And give link of site <SiteUrl>
     When Authentication with <userName> and <password>
-    Then Connection Okay
+    Then Connection close
 
     Examples:
       | NodeAddress                     | SiteUrl                      | userName | password |
-      | http://192.168.0.20:5566/wd/hub | http://newtours.demoaut.com/ | mercury  | mercury  |
+      | http://172.20.10.2:5566/wd/hub | http://newtours.demoaut.com/ | mercury  | mercury  |
