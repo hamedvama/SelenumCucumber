@@ -50,7 +50,7 @@ public class Hook extends BaseUtil {
                 System.out.println("Exception while taking screenshot "+e.getMessage());
             }
         }
-        this.base.webDriver.quit();
+        //this.base.webDriver.quit();
         System.out.println("Closing the browser : MOCK");
         System.out.println();
     }

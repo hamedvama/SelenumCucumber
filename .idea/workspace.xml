@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="47caeb5c-2563-452e-b99f-4312140c770c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/BaseUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Features/Cdiscount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Cdiscount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Corsair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Corsair.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Features/NewtoursDemoAut.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/NewtoursDemoAut.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Steps/CdiscountSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/CdiscountSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/CorsairSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/CorsairSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/Hook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Steps/NewtoursDemoAut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/NewtoursDemoAut.java" afterDir="false" />
     </list>
@@ -64,7 +63,7 @@
       <recent name="C:\Users\hdi18997\IdeaProjects\SeleniumCucumber\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: Cdiscount">
+  <component name="RunManager" selected="Cucumber java.Feature: Sncf">
     <configuration name="Feature: Cdiscount" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Cdiscount.feature" />
@@ -101,6 +100,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Feature: NewtoursDemoAut" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/NewtoursDemoAut.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: NewtoursDemoAut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Sncf" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Sncf.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Sncf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lanceur" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="C:\Users\hdi18997\IdeaProjects\SeleniumCucumber\src\test\java\Features" />
@@ -119,47 +154,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/hdi18997/IdeaProjects/SeleniumCucumber/src/test/java/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumCucumber" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumCucumber" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Runner" />
-      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Cucumber java.Lanceur" />
-      <item itemvalue="TestNG.TestRunner" />
-      <item itemvalue="TestNG.C:/Users/hdi18997/IdeaProjects/SeleniumCucumber/src/test/java/TestNG.xml" />
       <item itemvalue="Cucumber java.Feature: Corsair" />
       <item itemvalue="Cucumber java.Feature: Cdiscount" />
+      <item itemvalue="Cucumber java.Feature: Sncf" />
+      <item itemvalue="Cucumber java.Feature: NewtoursDemoAut" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: Sncf" />
         <item itemvalue="Cucumber java.Feature: Cdiscount" />
         <item itemvalue="Cucumber java.Feature: Corsair" />
+        <item itemvalue="Cucumber java.Feature: NewtoursDemoAut" />
         <item itemvalue="Cucumber java.Lanceur" />
-        <item itemvalue="TestNG.TestRunner" />
-        <item itemvalue="TestNG.C:/Users/hdi18997/IdeaProjects/SeleniumCucumber/src/test/java/TestNG.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +183,7 @@
       <updated>1587718876232</updated>
       <workItem from="1587718879700" duration="50630000" />
       <workItem from="1588209646827" duration="6701000" />
-      <workItem from="1588267348695" duration="75716000" />
+      <workItem from="1588267348695" duration="140180000" />
     </task>
     <servers />
   </component>
@@ -218,22 +226,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588779256830" />
-    <state width="1493" height="267" key="GridCell.Tab.0.bottom" timestamp="1589824755450">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1591087629350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589824755450" />
-    <state width="1493" height="267" key="GridCell.Tab.0.center" timestamp="1589824755449">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591087629350" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1591087629349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589824755449" />
-    <state width="1493" height="267" key="GridCell.Tab.0.left" timestamp="1589824755449">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591087629349" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1591087629349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589824755449" />
-    <state width="1493" height="267" key="GridCell.Tab.0.right" timestamp="1589824755449">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591087629349" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1591087629350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589824755449" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591087629350" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1588209386829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -246,9 +254,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587719542892" />
-    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1588779261159">
+    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1589973924909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1588779261159" />
+    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1589973924909" />
   </component>
 </project>
