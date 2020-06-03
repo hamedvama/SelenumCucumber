@@ -52,7 +52,8 @@ public class CorsairSteps {
     }
 
     @And("^Authentication on Corsair site with UserName (.*) and PassWord (.*)$")
-    public void authenticationOnCorsairSiteWithUserNameUserAndPassWordPassword(String userName, String passWord) throws InterruptedException {
+    public void authenticationOnCorsairSiteWithUserNameUserAndPassWordPassword(String userName, String passWord)
+            throws InterruptedException {
         this.base.webDriver.findElement(By.xpath("//*[@id=\"registerLink\"]")).click();
         Thread.sleep(1000);
         this.base.webDriver.findElement(By.xpath("//*[@id=\"login-identifiant\"]")).sendKeys(userName);
