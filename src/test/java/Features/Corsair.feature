@@ -12,7 +12,7 @@ Feature: Test_Corsair_Site
 
     Examples:
       | Node                            | UrlSite                 | user                 | password   |
-      | http://192.168.0.20:5568/wd/hub | https://www.corsair.fr/ | hamedbaba8@gmail.com | Babany@2391 |
-      #| http://172.20.10.2:5568/wd/hub | https://www.corsair.fr/ |hamedbaba8@gmail.com | Babany@2391 |
+      | http://172.20.10.2:5568/wd/hub | https://www.corsair.fr/ |hamedbaba8@gmail.com | Babany@2391 |
+      #| http://192.168.0.20:5568/wd/hub | https://www.corsair.fr/ | hamedbaba8@gmail.com | Babany@2391 |
 
 

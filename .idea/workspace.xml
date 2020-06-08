@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="47caeb5c-2563-452e-b99f-4312140c770c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/CorsairSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/CorsairSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Cdiscount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Cdiscount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Corsair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Corsair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/NewtoursDemoAut.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/NewtoursDemoAut.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Sncf.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Sncf.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +180,7 @@
       <updated>1587718876232</updated>
       <workItem from="1587718879700" duration="50630000" />
       <workItem from="1588209646827" duration="6701000" />
-      <workItem from="1588267348695" duration="145756000" />
+      <workItem from="1588267348695" duration="147037000" />
     </task>
     <servers />
   </component>

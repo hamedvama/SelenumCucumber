@@ -6,5 +6,5 @@ Feature: Test_SNCF_Site
     Then User login successful
     Examples:
       | NodeAddress                    | linkSite              | user                 | password   |
-      | http://192.168.0.20:5566/wd/hub | https://www.oui.sncf/ | hamedbaba8@gmail.com | Babany1991 |
-      #| http://172.20.10.2:5566/wd/hub | https://www.oui.sncf/ | hamedbaba8@gmail.com | Babany1991 |
+      | http://172.20.10.2:5566/wd/hub | https://www.oui.sncf/ | hamedbaba8@gmail.com | Babany1991 |
+      #| http://192.168.0.20:5566/wd/hub | https://www.oui.sncf/ | hamedbaba8@gmail.com | Babany1991 |

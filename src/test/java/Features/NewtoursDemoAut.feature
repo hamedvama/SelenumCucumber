@@ -13,6 +13,6 @@ Feature: Test_De_Site_NewtoursDemoAut
 
     Examples:
       | NodeAddress                     | SiteUrl                      |userName | password |
-      | http://192.168.0.20:5568/wd/hub | http://newtours.demoaut.com/ |mercury  | mercury  |
-      #| http://172.20.10.2:5568/wd/hub | http://newtours.demoaut.com/ |mercury  | mercury  |
+      | http://172.20.10.2:5568/wd/hub | http://newtours.demoaut.com/ |mercury  | mercury  |
+      #| http://192.168.0.20:5568/wd/hub | http://newtours.demoaut.com/ |mercury  | mercury  |
 

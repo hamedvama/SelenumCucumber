@@ -12,5 +12,5 @@ Feature: Test_De_Site_Cdiscount
 
     Examples:
       | NodeAddress                     | SiteUrl                    | UserName             | PassWord    |
-      | http://192.168.0.20:5566/wd/hub | https://www.cdiscount.com/ | hamedbaba8@gmail.com | Babany@2391 |
-      #| http://172.20.10.2:5566/wd/hub | https://www.cdiscount.com/ | hamedbaba8@gmail.com | Babany@2391 |
+      | http://172.20.10.2:5566/wd/hub | https://www.cdiscount.com/ | hamedbaba8@gmail.com | Babany@2391 |
+      #| http://192.168.0.20:5566/wd/hub | https://www.cdiscount.com/ | hamedbaba8@gmail.com | Babany@2391 |
